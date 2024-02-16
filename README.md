@@ -11,9 +11,11 @@ This repository includes code for hand detection, gesture recognition, and volum
 <img src="/images/HandTracking.png">
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
 References:
-https://www.youtube.com/watch?v=NZde8Xt78Iw&t=2238s
+https://www.youtube.com/watch?v=NZde8Xt78Iw&t=2238s <br/>
 https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q
 
 
